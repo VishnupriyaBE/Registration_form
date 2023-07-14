@@ -1,0 +1,49 @@
+body{
+    background:linear-gradient(white,);
+}
+#heading{
+    height:75px;
+    width:650px;
+    background: black;
+    color: grey;
+    border-style:groove;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    border-top-left-radius: 75%;
+    border-bottom-right-radius: 75%;
+    border:2px solid aqua green yellow red;
+    border-color: aqua green yellow red;
+
+}
+h1{
+    text-align: center;
+    padding-top: 1px;
+}
+form{
+
+    width: 700px;
+    background: black;
+    margin: auto;
+    color: white;
+    margin-top: 50px;
+    text-align:center;
+}
+label{
+    font-weight: bold;
+}
+#success{
+    background: grey;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+}
+.sbody{
+    background:url(./bg.jpg);
+    background-size: cover;
+}
+#sh1{
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+}
